@@ -54,7 +54,7 @@ function App() {
       let data = await response.json()
       setPokemon(data)
     } catch (error) {
-      alert('Pokemon NOT Found!')
+      alert(`Pokemon ${term.toUpperCase()} does NOT Exist!`)
     }
   }
 
