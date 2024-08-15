@@ -1,2 +1,3 @@
 # Pokedex
-A simple and elegant pokemon searching tool to demonstrate the use of APIs
+- A simple yet elegant pokemon searching tool to demonstrate the use of APIs 
+- Made with AI assistance
